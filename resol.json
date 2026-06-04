@@ -1,0 +1,41 @@
+{
+    "assuntos": {
+        "1": {
+            "titulo": "PjeOffice - Erro de Acesso - Configuração",
+            "conteudo": "Em contato com o servidor foi feito o acesso remoto e realizado a configuração do assinador PJeOfficePro, após procedimento o mesmo conseguiu acessar normalmente."
+            },
+        "ca": {
+            "titulo": "Pje - Configuração Advogado",
+            "conteudo": "Em contato com o advogado, orientamos sobre o procedimento de configuração do assinador PJeOfficePro, após procedimento o mesmo conseguiu acessar normalmente."
+            },
+        "ia": {
+            "titulo": "PJe - Instalação Advogado ",
+            "conteudo": "Em contato com advogado, orientamos sobre como instalar e configurar o PJeOfficePro. Após procedimento o mesmo conseguiu acessar normalmente."
+            },
+        "is": {
+            "titulo": "PJe - Instalação Servidor ",
+            "conteudo": "Em contato com servidor foi feito acesso remoto e realizado a instalação e configuração do PJeOfficePro. Após procedimento o mesmo conseguiu acessar normalmente."
+
+            },
+        "as": {
+            "titulo": "PJe - Atualização Servidor ",
+            "conteudo": "Em contato com servidor foi feito acesso remoto e realizado a atualização e configuração do PJeOfficePro. Após procedimento o mesmo conseguiu acessar normalmente."
+
+            },
+        "aa": {
+            "titulo": "PJe - Atualização Advogado",
+            "conteudo": "Em contato com advogado, orientamos sobre a atualização e configuração do PJeOfficePro. Após procedimento o mesmo conseguiu acessar normalmente."
+
+            },
+        "so": {
+            "titulo": "Atribuir ao S.O",
+            "conteudo": "Verificar por gentileza"
+
+            },
+        "cnj": {
+            "titulo": "PJe - problema com CNJ",
+            "conteudo": "Senhor(a), foi informado que o problema para acesso ao ambiente do PJe está ocorrendo, pois o PDPJ, interface gerenciada pelo CNJ, está indisponível no momento. Foi orientado(a) a realizar o contato com o suporte direto do PDPJ (CNJ) para melhores informações."
+
+        }
+    }
+}
